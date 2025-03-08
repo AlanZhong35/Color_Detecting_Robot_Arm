@@ -3,7 +3,7 @@
 ## Overview
 This project integrates **computer vision** with a **6-axis robotic arm** to **autonomously sort objects based on color**. The arm is equipped with a gripper and a Logitech camera to detect the color of objects and place them in the appropriate bucket.
 
-Our goal was to develop a **minimum viable product (MVP)** in **two weeks**, focusing on distinguishing **red and blue** objects (whiteboard erasers) and placing them in **predefined bucket locations**. This project combines **computer vision, kinematics, and robotics**, leveraging **OpenCV** for color detection and **ROS2** for control and communication.
+Our goal was to develop a **minimum viable product (MVP)** in **two weeks**, focusing on distinguishing **red and blue** objects (whiteboard erasers) and placing them in **predefined bucket locations**. This project combines **computer vision, kinematics, and robotics**, leveraging **OpenCV** for color detection and **ROS2** for control and communication. The demo video can be found at [https://youtu.be/S264jDhHa3s](https://youtu.be/S264jDhHa3s)
 
 ## System Architecture
 
